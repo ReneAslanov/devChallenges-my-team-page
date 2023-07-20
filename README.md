@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{My team page}</h1>
+<h1 align="center">My team page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://stunning-bubblegum-4ffc03.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ReneAslanov/devChallenges-my-team-page">
       Solution
     </a>
     <span> | </span>
@@ -30,7 +30,6 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -44,6 +43,8 @@
 - What was your experience?
 - What have you learned/improved?
 - Your wisdom? :) -->
+
+You can see a demo of this project [here](https://stunning-bubblegum-4ffc03.netlify.app/)
 
 Since making Websites responsive is a skill that I need to improve, building all the projects from devChallenges.io regarding Responsive Web design should be a good start :)
 
